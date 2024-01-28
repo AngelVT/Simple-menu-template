@@ -1,0 +1,30 @@
+.menu   {
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+.menu span {
+    display: block;
+    font-size: 40px;
+    margin: 0 5%;
+}
+
+#menu_1 {
+    width: 100%;
+    background-color: blue;
+    height: 900px;
+}
+
+#menu_3 {
+    width: 100%;
+    background-color: red;
+    height: 900px;
+}
+
+#menu_2 {
+    width: 100%;
+    background-color: yellow;
+    height: 900px;
+}
