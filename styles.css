@@ -28,3 +28,7 @@
     background-color: yellow;
     height: 900px;
 }
+
+textarea {
+    resize: none;
+}
